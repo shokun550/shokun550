@@ -29,10 +29,10 @@
 ### ✨ Featured Project
 
 🚀 [**Smart Home Robot**](https://github.com/shokun550/yolov9-home)  
-A ROS-based home robot using TurtleBot2, Lidar, and a 3-servo robotic arm.
+A ROS-based home robot using TurtleBot2, Lidar, Kinect Camera, and a 3-Servo Robotic Arm.
 
 ---
 
 ### 📬 Contact Me
-- Instagram: [sho.kun_](https://instagram.com/your.ig)
+- Instagram: [sho.kun_](https://instagram.com/sho.kun_)
 - Email: shokun550@gmail.com
