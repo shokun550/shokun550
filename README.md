@@ -28,7 +28,7 @@
 
 ### ✨ Featured Project
 
-🚀 [**Smart Home Robot**](https://github.com/your-username/smart-home-robot)  
+🚀 [**Smart Home Robot**](https://github.com/shokun550/yolov9-home)  
 A ROS-based home robot using TurtleBot2, Lidar, and a 3-servo robotic arm.
 
 ---
