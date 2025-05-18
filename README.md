@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 - 🌱 Studying at Kasetsart University, Department of Electrical Engineering
 - 💬 Ask me about ROS, Python, and Computer Vision
-📫 How to reach me: [sho.kun_](https://instagram.com/sho.kun_)
+- 📫 How to reach me: [sho.kun_](https://instagram.com/sho.kun_)
 
 ---
 
